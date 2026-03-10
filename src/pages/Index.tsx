@@ -472,21 +472,21 @@ const Index = () => {
                   <h3 className="text-xl font-semibold mb-4 text-primary">Connect With Me</h3>
                   <div className="space-y-4">
                     <a
-                      href="mailto:jithendra@example.com"
+                      href="mailto:jithendra127@gmail.com"
                       className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors"
                     >
                       <Mail className="h-5 w-5" />
-                      jithendra@example.com
+                      jithendra127@gmail.com
                     </a>
                     <a
-                      href="https://github.com/jithendra"
+                      href="https://github.com/GALIJITHENDRASAICHANDRABARADVAJ"
                       className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors"
                     >
                       <Github className="h-5 w-5" />
-                      github.com/jithendra
+                      github.com/GALIJITHENDRASAICHANDRABARADVAJ
                     </a>
                     <a
-                      href="https://linkedin.com/in/jithendra"
+                      href="https://www.linkedin.com/in/jithendra-g-b3834628b/"
                       className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors"
                     >
                       <Linkedin className="h-5 w-5" />
